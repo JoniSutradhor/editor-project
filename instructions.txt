@@ -5,14 +5,12 @@ Follow these steps to clone and run the project on your local machine:
 1. Clone the Repository
    First, clone the project repository from GitHub to your local machine using the following command:
    
-   git clone https://github.com/your-username/your-repository-name.git
-   
-   Replace "your-username" and "your-repository-name" with the appropriate GitHub username and repository name.
+   git clone https://github.com/JoniSutradhor/editor-project
 
 2. Navigate to the Project Directory
    Once the repository is cloned, navigate to the project directory:
    
-   cd your-repository-name
+   cd editor-project
 
 3. Install Dependencies
    The project uses Node.js and npm (Node Package Manager) for package management. To install the project dependencies, run the following command:
